@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo DatabaseCRUD</string>
+    <string name="button_insert">INSERT</string>
+    <string name="button_edit">EDIT</string>
+    <string name="button_retrieve">RETRIEVE</string>
+    <string name="button_update">UPDATE</string>
+    <string name="button_delete">DELETE</string>
+</resources>
